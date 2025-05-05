@@ -41,7 +41,7 @@ main {
 }
 .pr_container img {
   order: -1;
-  max-width: 30%;
+  max-width: 28%;
   max-height: fit-content;
   border-radius: 50%;
   margin-bottom: 2em;
@@ -53,13 +53,13 @@ main {
 .pr_container p:nth-child(3) {
   font-weight: var(--Weight600);
   font-size: var(--Font-paragraph);
-  margin: 1em;
+  margin: 0.6em;
   color: var(--Green);
 }
 .pr_container p:nth-child(4) {
   font-size: var(--Font-paragraph);
   font-weight: var(--Weight400);
-  margin: 2em;
+  margin: 1.5em;
 }
 .pr_container ul {
   display: flex;
@@ -85,9 +85,6 @@ main {
 @media (max-width: 400px) {
   .pr_container {
     padding: 1.5em 0.5em 1.5em 0.5em;
-  }
-  .pr_container p:nth-child(3) {
-    margin: 0.6em;
   }
   .pr_container li {
     min-width: 17.5rem;

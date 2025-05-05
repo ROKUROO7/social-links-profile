@@ -70,7 +70,7 @@ main {
   list-style: none;
 }
 .pr_container li {
-  min-width: 19rem;
+  min-width: 18.5rem;
   min-height: fit-content;
   padding: 1em;
   border-radius: 0.5em;

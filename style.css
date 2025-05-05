@@ -59,7 +59,7 @@ main {
 .pr_container p:nth-child(4) {
   font-size: var(--Font-paragraph);
   font-weight: var(--Weight400);
-  margin: 1.5em;
+  margin: 1.8em;
 }
 .pr_container ul {
   display: flex;

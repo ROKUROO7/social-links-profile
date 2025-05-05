@@ -33,7 +33,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2em;
+  padding: 2.5em;
   font-family: var(--Font-inter);
   color: var(--White);
   background-color: var(--Grey800);
